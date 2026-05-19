@@ -1,0 +1,11 @@
+EmailText,Label
+"Congratulations! You won a free iPhone. Click here now!",Phishing
+"Your bank account has been suspended. Verify immediately.",Phishing
+"Claim your lottery reward now!",Phishing
+"Urgent! Login to avoid account termination.",Phishing
+"Get free PayPal money instantly.",Phishing
+"Meeting scheduled tomorrow at 10 AM.",Safe
+"Project submission deadline is Friday.",Safe
+"Let's have lunch this weekend.",Safe
+"Please review the attached report.",Safe
+"Your Amazon order has been delivered.",Safe
